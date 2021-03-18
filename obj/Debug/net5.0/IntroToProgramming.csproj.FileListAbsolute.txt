@@ -1,0 +1,48 @@
+C:\Users\Jarro\OneDrive\Documents\IntroToProgramming\bin\Debug\net5.0\IntroToProgramming.exe
+C:\Users\Jarro\OneDrive\Documents\IntroToProgramming\bin\Debug\net5.0\IntroToProgramming.deps.json
+C:\Users\Jarro\OneDrive\Documents\IntroToProgramming\bin\Debug\net5.0\IntroToProgramming.runtimeconfig.json
+C:\Users\Jarro\OneDrive\Documents\IntroToProgramming\bin\Debug\net5.0\IntroToProgramming.runtimeconfig.dev.json
+C:\Users\Jarro\OneDrive\Documents\IntroToProgramming\bin\Debug\net5.0\IntroToProgramming.dll
+C:\Users\Jarro\OneDrive\Documents\IntroToProgramming\bin\Debug\net5.0\ref\IntroToProgramming.dll
+C:\Users\Jarro\OneDrive\Documents\IntroToProgramming\bin\Debug\net5.0\IntroToProgramming.pdb
+C:\Users\Jarro\OneDrive\Documents\IntroToProgramming\obj\Debug\net5.0\IntroToProgramming.csprojAssemblyReference.cache
+C:\Users\Jarro\OneDrive\Documents\IntroToProgramming\obj\Debug\net5.0\IntroToProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarro\OneDrive\Documents\IntroToProgramming\obj\Debug\net5.0\IntroToProgramming.AssemblyInfoInputs.cache
+C:\Users\Jarro\OneDrive\Documents\IntroToProgramming\obj\Debug\net5.0\IntroToProgramming.AssemblyInfo.cs
+C:\Users\Jarro\OneDrive\Documents\IntroToProgramming\obj\Debug\net5.0\IntroToProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Jarro\OneDrive\Documents\IntroToProgramming\obj\Debug\net5.0\IntroToProgramming.dll
+C:\Users\Jarro\OneDrive\Documents\IntroToProgramming\obj\Debug\net5.0\ref\IntroToProgramming.dll
+C:\Users\Jarro\OneDrive\Documents\IntroToProgramming\obj\Debug\net5.0\IntroToProgramming.pdb
+C:\Users\Jarro\OneDrive\Documents\IntroToProgramming\obj\Debug\net5.0\IntroToProgramming.genruntimeconfig.cache
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\IntroToProgramming\bin\Debug\net5.0\IntroToProgramming.exe
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\IntroToProgramming\bin\Debug\net5.0\IntroToProgramming.deps.json
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\IntroToProgramming\bin\Debug\net5.0\IntroToProgramming.runtimeconfig.json
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\IntroToProgramming\bin\Debug\net5.0\IntroToProgramming.runtimeconfig.dev.json
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\IntroToProgramming\bin\Debug\net5.0\IntroToProgramming.dll
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\IntroToProgramming\bin\Debug\net5.0\ref\IntroToProgramming.dll
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\IntroToProgramming\bin\Debug\net5.0\IntroToProgramming.pdb
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\IntroToProgramming\obj\Debug\net5.0\IntroToProgramming.csprojAssemblyReference.cache
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\IntroToProgramming\obj\Debug\net5.0\IntroToProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\IntroToProgramming\obj\Debug\net5.0\IntroToProgramming.AssemblyInfoInputs.cache
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\IntroToProgramming\obj\Debug\net5.0\IntroToProgramming.AssemblyInfo.cs
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\IntroToProgramming\obj\Debug\net5.0\IntroToProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\IntroToProgramming\obj\Debug\net5.0\IntroToProgramming.dll
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\IntroToProgramming\obj\Debug\net5.0\ref\IntroToProgramming.dll
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\IntroToProgramming\obj\Debug\net5.0\IntroToProgramming.pdb
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\IntroToProgramming\obj\Debug\net5.0\IntroToProgramming.genruntimeconfig.cache
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\Github\SelectionExample2021\Selections\SelectionsTask\bin\Debug\net5.0\IntroToProgramming.exe
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\Github\SelectionExample2021\Selections\SelectionsTask\bin\Debug\net5.0\IntroToProgramming.deps.json
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\Github\SelectionExample2021\Selections\SelectionsTask\bin\Debug\net5.0\IntroToProgramming.runtimeconfig.json
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\Github\SelectionExample2021\Selections\SelectionsTask\bin\Debug\net5.0\IntroToProgramming.runtimeconfig.dev.json
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\Github\SelectionExample2021\Selections\SelectionsTask\bin\Debug\net5.0\IntroToProgramming.dll
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\Github\SelectionExample2021\Selections\SelectionsTask\bin\Debug\net5.0\ref\IntroToProgramming.dll
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\Github\SelectionExample2021\Selections\SelectionsTask\bin\Debug\net5.0\IntroToProgramming.pdb
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\Github\SelectionExample2021\Selections\SelectionsTask\obj\Debug\net5.0\IntroToProgramming.csprojAssemblyReference.cache
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\Github\SelectionExample2021\Selections\SelectionsTask\obj\Debug\net5.0\IntroToProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\Github\SelectionExample2021\Selections\SelectionsTask\obj\Debug\net5.0\IntroToProgramming.AssemblyInfoInputs.cache
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\Github\SelectionExample2021\Selections\SelectionsTask\obj\Debug\net5.0\IntroToProgramming.AssemblyInfo.cs
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\Github\SelectionExample2021\Selections\SelectionsTask\obj\Debug\net5.0\IntroToProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\Github\SelectionExample2021\Selections\SelectionsTask\obj\Debug\net5.0\IntroToProgramming.dll
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\Github\SelectionExample2021\Selections\SelectionsTask\obj\Debug\net5.0\ref\IntroToProgramming.dll
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\Github\SelectionExample2021\Selections\SelectionsTask\obj\Debug\net5.0\IntroToProgramming.pdb
+C:\Users\Jarrod\OneDrive - Swinburne University\Coding\Github\SelectionExample2021\Selections\SelectionsTask\obj\Debug\net5.0\IntroToProgramming.genruntimeconfig.cache
